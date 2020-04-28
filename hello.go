@@ -6,8 +6,8 @@ import (
 )
 
 func Person() string {
-    fmt.Println("Personne ?")
-    return "Personne ?"
+    fmt.Println("Personne !")
+    return "Personne !"
 }
 
 func Hello() string {
